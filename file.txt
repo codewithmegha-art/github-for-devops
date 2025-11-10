@@ -9,3 +9,5 @@ git remote -v
 git clone
 fork
 git push origin master
+
+This is the some new changes
